@@ -1,0 +1,25 @@
+# Podfile
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.1'
+
+use_frameworks!
+
+# To decode json to models
+pod 'Unbox'
+
+# For maps
+pod 'GoogleMaps'
+pod 'Polyline', '~> 3.0'
+
+# For SVG processing
+pod 'SVGKit', :git => 'https://github.com/SVGKit/SVGKit.git', :branch => '2.x'
+
+# For testing
+def testing_pods
+    pod 'Quick', '~> 0.9.0'
+    pod 'Nimble', '3.0.0'
+end
+
+target 'TransitAppTests' do
+    testing_pods
+end
