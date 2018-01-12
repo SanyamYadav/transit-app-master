@@ -12,12 +12,6 @@ An iOS swift app that shows route information and plots the route on a map. It w
 - cocoapods gem installed
   - ```$ sudo gem install cocoapods```
 
-## Get the app
-```
-$ git clone https://github.com/jcfausto/transit-app.git
-$ cd transit-app
-```
-
 ## Install dependencies
 
 ```
