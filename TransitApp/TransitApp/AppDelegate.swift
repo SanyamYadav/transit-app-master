@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  TransitApp
-//
+// TransitApp. AppDelegate
 import UIKit
 import GoogleMaps
 
