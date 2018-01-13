@@ -43,7 +43,6 @@ class SVGIconCache {
         } catch {
             print(error)
         }
-
     }
     
     /**
