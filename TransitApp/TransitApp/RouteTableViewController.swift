@@ -2,7 +2,6 @@
 //  RouteTableViewController.swift
 //  TransitApp
 //
-//
 
 import UIKit
 import Unbox
