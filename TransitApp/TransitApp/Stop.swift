@@ -4,7 +4,6 @@
 //
 import Foundation
 import Unbox
-
 struct Stop {
     var name: String?
     var longitude: Double
