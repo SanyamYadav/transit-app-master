@@ -19,6 +19,7 @@ extension NSDate {
     }
     
     
+    
     /**
      This representation returns the time portion of the date only
      whith the hour and minute (HH:MM)
