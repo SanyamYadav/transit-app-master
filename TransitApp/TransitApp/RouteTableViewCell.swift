@@ -2,7 +2,6 @@
 //  RouteTableViewCell.swift
 //  TransitApp
 //
-//
 
 import UIKit
 
