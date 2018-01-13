@@ -1,7 +1,6 @@
 //
 //  SegmentDetailVerticalLineView.swift
 //  TransitApp
-//
 
 import UIKit
 
