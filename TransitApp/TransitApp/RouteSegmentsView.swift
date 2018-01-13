@@ -20,7 +20,6 @@ class RouteSegmentsView: UIView {
      representing each segment.
      */
     var segments: [Segment]? {
-        
         didSet {
             if let segments = self.segments {
                 if segmentButtons.isEmpty {
