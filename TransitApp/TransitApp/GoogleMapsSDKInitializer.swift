@@ -7,6 +7,7 @@ import GoogleMaps
 
 class GoogleMapsSDKInitializer {
     
+    
     var state: Bool = false
     
     // MARK: Google maps ios SDK initialization
