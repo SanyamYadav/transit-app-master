@@ -18,6 +18,7 @@ struct Price: Unboxable {
         self.currency = currency
     }
     
+    
     init(unboxer: Unboxer) {
         self.amount = unboxer.unbox("amount")
         self.currency = unboxer.unbox("currency")
