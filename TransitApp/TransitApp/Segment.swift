@@ -66,7 +66,6 @@ extension Segment {
             areEqual = stopOne == stopTwo
             return areEqual
         }
-        
         return areEqual
     }
     
