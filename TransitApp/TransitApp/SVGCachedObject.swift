@@ -11,6 +11,12 @@ class SVGCachedObject {
     var data: NSData
     var fileName: String
     
+    
+    init(data: NSData, fileName: String){
+        self.data = data
+        self.fileName = fileName
+    }
+    
     init(data: NSData, fileName: String){
         self.data = data
         self.fileName = fileName
