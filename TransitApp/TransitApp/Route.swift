@@ -6,6 +6,7 @@
 import Foundation
 import Unbox
 
+
 /**
  This enumeration represents a certain position in the route
  The two supoorted ones are:
